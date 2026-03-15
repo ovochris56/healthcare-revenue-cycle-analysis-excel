@@ -1,4 +1,4 @@
-#Healthcare Revenue Cycle Analysis (Excel)
+# Healthcare Revenue Cycle Analysis (Excel)
 
 This project analyzes a simulated healthcare revenue cycle dataset containing 150 claim records across multiple departments and payer types.
 
