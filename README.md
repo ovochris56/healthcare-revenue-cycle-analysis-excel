@@ -26,3 +26,5 @@ Key Findings
 Operational Recommendation
 
 Duplicate claim denials suggest potential workflow inefficiencies in the billing process. Implementing validation checks prior to claim submission could reduce preventable denials.
+
+Dataset is simulated for portfolio and practice purposes.
