@@ -20,7 +20,7 @@ Key Metrics Analyzed
 Key Findings
 	-	Dermatology generated the highest total payments while endocrinology generated the lowest.
 	-	Duplicate claims were the most common denial driver, accounting for roughly 33% of denied claims.
-  -	Average payment time across claims was approximately 25 days.
+	- 	Average payment time across claims was approximately 25 days.
 	-	Overall reimbursement averaged about 54% of billed charges.
 
 Operational Recommendation
